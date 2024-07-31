@@ -19,7 +19,7 @@ This project is a starting point for a Flutter application.
 
 - Booking Screen
 
-![Bookings Screen](screenshots/explore1.png)
+![Bookings Screen](screenshots/booking.png)
 
 - Search Screen
 
